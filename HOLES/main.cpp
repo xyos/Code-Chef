@@ -1,7 +1,7 @@
 # include <iostream>
 using namespace std;
 
-int getCount(int c){
+int getCount(const int& c){
 	switch(c){
 	case 65:
 		return 1;
@@ -19,7 +19,6 @@ int getCount(int c){
 		return 1;
 	default:
 		return 0;
-
 	}
 }
 int main()
