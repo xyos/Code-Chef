@@ -1,6 +1,7 @@
 Solutios to CodeChef
 ====================
 
+
 |Name                                            | CODE    |status|
 |:-----------------------------------------------|-:-------|:----:|
 |Life, the Universe, and Everything              | TEST    |      |
