@@ -34,7 +34,7 @@ EASY
     |GCD2                                            |GCD2    |  xx  |
     |Poker                                           |POKER   |      |
     |Not a Triangle                                  |NOTATRI |      |
-    |The Best Box                                    |J7      |      |
+    |The Best Box                                    |J7      |  xx  |
     |Cutting Recipes                                 |RECIPE  |  xx  |
     |Decreasing String                               |DECSTR  |      |
     |Parenthesis                                     |DCE03   |      |
